@@ -32,6 +32,7 @@ This repo offers chapter-wise, hands-on Jupyter notebooks to help you **learn, i
 **Using pip:**
 ```bash
 pip install -r requirements.txt
+---
 Using conda:
 
 bash
