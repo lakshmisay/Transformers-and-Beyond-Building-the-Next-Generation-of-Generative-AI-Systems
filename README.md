@@ -43,7 +43,7 @@ pip install -r requirements.txt
 2. Launch Notebooks
 Open the terminal and run:
 
-```bash
+bash
 
 jupyter notebook
 Capstone Projects
