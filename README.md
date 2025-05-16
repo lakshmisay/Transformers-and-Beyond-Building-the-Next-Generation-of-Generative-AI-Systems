@@ -43,13 +43,16 @@ Edit
 conda create -n genai python=3.10
 conda activate genai
 pip install -r requirements.txt
-2. Launch Notebooks
+
+
+### 2. Launch Notebooks
 Open the terminal and run:
 
 bash
 
 jupyter notebook
-Capstone Projects
+
+### 3.Capstone Projects
 Explore hands-on, end-to-end notebooks to apply everything you've learned:
 
 Capstone_Agent_RAG_Chatbot.ipynb
@@ -60,13 +63,13 @@ Capstone_Multimodal_App.ipynb
 
 These projects are GPU-accelerated and production-aligned — ideal for both research and prototyping.
 
-Recommended Hardware
+### 4.Recommended Hardware
 Component	Recommended Specs
 GPU	NVIDIA RTX 3090 / A100 (16GB+ VRAM)
 CPU	Intel i7 / AMD Ryzen 7 or better
 RAM	Minimum 16GB
 
-Author
+###Author
 Lakshmi Devi Prakash
 Generative AI Researcher | Platform Architect
 LinkedIn : https://www.linkedin.com/in/lakshmidevip/
